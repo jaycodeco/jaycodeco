@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @jaycodeco
 - 👀 I’m interested in IT
-- 🌱 I’m currently learning AI
 
 <!---
 jaycodeco/jaycodeco is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
